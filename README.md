@@ -1,5 +1,8 @@
 # my-vue
 
+## Description
+Used Vue.js to make a Todo-list.
+
 ## Project setup
 ```
 npm install
